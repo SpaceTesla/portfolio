@@ -1,15 +1,3 @@
-import { Button } from '@/components/ui/button';
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from '@/components/ui/card';
-import { Input } from '@/components/ui/input';
-import { Textarea } from '@/components/ui/textarea';
-
 const Contact = () => {
   return (
     <section id='contact' className='py-20 bg-base-200 text-base-content'>

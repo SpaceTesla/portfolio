@@ -1,15 +1,4 @@
-'use client';
-
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from '@/components/ui/card';
-
-import { Code, Github, Linkedin, Mail, Twitter } from 'lucide-react';
+import { Code } from 'lucide-react';
 
 import skills from '@/data/skills';
 

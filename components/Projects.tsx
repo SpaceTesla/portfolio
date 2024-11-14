@@ -1,18 +1,5 @@
 'use client';
 
-import Link from 'next/link';
-import { Button } from '@/components/ui/button';
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from '@/components/ui/card';
-import Image from 'next/image';
-
-import projects from '@/data/projects';
 import ProjectCards from './ProjectCards';
 
 const Projects = () => {
